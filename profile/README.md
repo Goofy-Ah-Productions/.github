@@ -1,1 +1,1 @@
-A small team created to make games and other software
+A small team mainly focused on making games, but also other stuff too.
